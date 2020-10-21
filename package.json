@@ -1,0 +1,19 @@
+{
+  "name": "tipos-de-cambios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLaucha/tipos-de-cambios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLaucha/tipos-de-cambios/issues"
+  },
+  "homepage": "https://github.com/TheLaucha/tipos-de-cambios#readme"
+}
